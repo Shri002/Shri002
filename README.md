@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a recent graduate from the **University of Washington*
 ### 🧠 Skills
 
 **Languages & Tools:**  
-SQL • Python • R • Java • JavaScript • HTML • CSS
+SQL • Python • R • Java • JavaScript • HTML • CSS • Git • React 
 
 ---
 
