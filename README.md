@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a recent graduate from the **University of Washington*
 
 ---
 
-### 💼 Experience
+### Experience
 
 - **Product Management Intern** @ [Terraseed](https://terraseed.com/?srsltid=AfmBOoomASyQDZQbCkj9N9WW4kWmklXf0X8rUvFPxQ55922FcZwNyLYu)  
 - **Program Manager Intern** @ [Premera Blue Cross](https://www.premera.com/visitor)  
@@ -12,14 +12,14 @@ Welcome to my GitHub! I'm a recent graduate from the **University of Washington*
 
 ---
 
-### 🧠 Skills
+### Skills
 
 **Languages & Tools:**  
 SQL • Python • R • Java • JavaScript • HTML • CSS • Git • React 
 
 ---
 
-### 🎯 Currently
+### Currently
 
 Actively looking for **Product Manager** roles 
 
