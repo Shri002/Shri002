@@ -21,6 +21,6 @@ SQL • Python • R • Java • JavaScript • HTML • CSS
 
 ### 🎯 Currently
 
-Actively looking for **Product Manager** roles — feel free to connect or reach out if you’d like to collaborate!
+Actively looking for **Product Manager** roles 
 
 ---
