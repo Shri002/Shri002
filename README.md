@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shrilekha Bhat
 
-Welcome to my GitHub! I'm a recent graduate from the **University of Washington**, where I earned my **B.S. in Informatics**.
+Welcome to my GitHub! I'm a recent graduate from the **University of Washington**, where I earned my **B.S. in Informatics, 2025**.
 
 ---
 
