@@ -17,9 +17,3 @@ I also like talking!
 SQL • Python • R • Java • JavaScript • HTML • CSS • Git • React 
 
 ---
-
-### Currently
-
-Actively looking for **Product Manager** roles 
-
----
